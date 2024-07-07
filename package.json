@@ -1,7 +1,7 @@
 {
-  "name": "Izumi-v3",
+  "name": "Aj-v3",
   "version": "3.1.0",
-  "description": "IZUMI-MD simple multi device WhatsApp Bot.",
+  "description": "Aj-MD simple multi device WhatsApp Bot.",
   "main": "./index.js",
   "type": "commonjs",
   "scripts": {
@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eypz/Izumi-v3.git"
+    "url": "git+https://github.com/eypz/Aj-v3.git"
   },
   "keywords": [
     "bot",
-    "izumi",
+    "Aj",
     "Eypz",
     "xasena",
     "sparkyapi"
@@ -22,9 +22,9 @@
   "developer": "EYPZ",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/eypz/Izumi-v3/issues"
+    "url": "https://github.com/eypz/Aj-v3/issues"
   },
-  "homepage": "https://github.com/eypz/Izumi-v3#readme",
+  "homepage": "https://github.com/eypz/Aj-v3#readme",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/A-d-i-t-h-y-a-n/Baileys.js.git",
     "@adiwajshing/keyed-db": "^0.2.4",
