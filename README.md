@@ -1,15 +1,15 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## Izumi-v3 a simple Multi device Whatsapp Bot   
+## Aj-v3 a simple Multi device Whatsapp Bot   
 ### Setup 
 1. Get Session
    <br>
-<a href='https://izumi.maskser.me' target="_blank"><img alt='Session' src='https://img.shields.io/badge/Session-V3100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://An.maskser.me' target="_blank"><img alt='Session' src='https://img.shields.io/badge/Session-V3100000?style=for-the-badge&logo=render&logoColor=white&labelColor=black&color=black'/></a>
 
 2. Fork This Repository
    <br>
-<a href='https://github.com/sataniceypz/Izumi-V3/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/sataniceypz/Aj-V3/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
 
 ### Heroku
 1. Create account on Heroku
